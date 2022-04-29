@@ -1,0 +1,16 @@
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.vbprojAssemblyReference.cache
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.FrmStud.resources
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.FrmTeacher.resources
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.FrmAttendance.resources
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.Resources.resources
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.vbproj.GenerateResource.cache
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.vbproj.CoreCompileInputs.cache
+D:\VB Projects\AttendanceMgt\AttendanceMgt\bin\Debug\AttendanceMgt.exe.config
+D:\VB Projects\AttendanceMgt\AttendanceMgt\bin\Debug\AttendanceMgt.exe
+D:\VB Projects\AttendanceMgt\AttendanceMgt\bin\Debug\AttendanceMgt.pdb
+D:\VB Projects\AttendanceMgt\AttendanceMgt\bin\Debug\AttendanceMgt.xml
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.Main.resources
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.exe
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.xml
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.pdb
+D:\VB Projects\AttendanceMgt\AttendanceMgt\obj\Debug\AttendanceMgt.FrmAttendanceList.resources
